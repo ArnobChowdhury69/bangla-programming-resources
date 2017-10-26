@@ -452,6 +452,7 @@
 #### সি প্লাস প্লাস (C++)
 * [বাংলা সি প্লাস প্লাস প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/cpptutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
 * [সি প্লাস প্লাস টিউটোরিয়াল](http://shoshikkha.com/archives/category/computer-science/programming/language/c) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+*[বাংলায় সি প্লাস প্লাস প্রোগ্রামিং STL ভিডিও টিউটোরিয়াল] (https://www.youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0) - [শুভ]
 
 
 #### জাভাস্ক্রিপ্ট (Javascript)
